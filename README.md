@@ -1,0 +1,1 @@
+<p>Javascript pattern progect - state patter</p>
